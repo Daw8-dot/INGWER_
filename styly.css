@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://image2url.com/images/1760684622551-e7ea86e0-77e3-4bbe-8a98-ff9963d37739.jpg);
+  background-repeat: no-repeat;
+  background-size: 1920px;
+}
+
+h1{
+  color: hotpink;
+  font-family: "Impact";
+  text-align: center;
+  font-size: 70px;
+
+}
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  font-family: "Impact";
+  border: 2px solid black;
+
+  
+  padding top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:40px ;
+}
+
+
+
